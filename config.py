@@ -8,8 +8,8 @@
 # ============================================================
 
 # --- API Keys ---
-GROQ_API_KEY = "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"
-TAVILY_API_KEY = "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"
+GROQ_API_KEY = "key"
+TAVILY_API_KEY = "key"
 
 # --- LLM Settings ---
 # We use Groq because it's free and extremely fast.
