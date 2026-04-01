@@ -157,16 +157,6 @@ The brain. Key methods:
 
 ---
 
-## Resume Bullet Points
-
-Once you've built and tested this, here's how to present it:
-
-- *Built an autonomous research agent in Python using the ReAct (Reason-Act-Observe) pattern, integrating LLM tool-calling, web search via Tavily API, and semantic long-term memory via ChromaDB*
-- *Implemented a vector memory system using ChromaDB embeddings to retrieve contextually relevant past research, enabling cross-session knowledge retention*
-- *Designed a modular tool registry supporting dynamic tool registration, used by an LLM (Llama 3.3 70B via Groq) to autonomously plan and execute multi-step research tasks*
-
----
-
 ## Technologies Used
 
 | Technology | Purpose | Why |
@@ -175,4 +165,4 @@ Once you've built and tested this, here's how to present it:
 | Tavily | Web search | Built specifically for AI agents, clean results |
 | ChromaDB | Vector database | Local, no cloud needed, easy setup |
 | BeautifulSoup | HTML parsing | Lightweight, reliable text extraction |
-| Python | Language | Your strongest language from the resume |
+| Python | Language | |
